@@ -12,7 +12,7 @@
 ### Hey, I'm **Altamish** 👋
 **Founder of Altamish.xyz · CSE student @ GL Bajaj · Building AI-powered products**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdaltamish-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohd-altamish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohd-altamish-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohd-altamish)
 [![GitHub](https://img.shields.io/badge/GitHub-MohdAltamish-181717?style=flat-square&logo=github)](https://github.com/MohdAltamish)
 [![Portfolio](https://img.shields.io/badge/Portfolio-altamish.xyz-000000?style=flat-square&logo=vercel)](https://altamish.xyz)
 
