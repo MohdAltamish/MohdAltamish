@@ -102,7 +102,7 @@
 
 ## 💼 Experience
 
-**Founder** · [Altamish.dev](https://altamish.dev)
+**Founder** · [Altamish.dev](https://altamish.xyz)
 - Run a web agency building sites and products for startups and small businesses
 
 **Co-Lead, Technical Team** · Shrink Club
