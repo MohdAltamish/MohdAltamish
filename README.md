@@ -10,11 +10,11 @@
 ```
 
 ### Hey, I'm **Altamish** 👋
-**Founder of Altamish.dev · CSE student @ GL Bajaj · Building AI-powered products**
+**Founder of Altamish.xyz · CSE student @ GL Bajaj · Building AI-powered products**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdaltamish-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdaltamish)
 [![GitHub](https://img.shields.io/badge/GitHub-MohdAltamish-181717?style=flat-square&logo=github)](https://github.com/MohdAltamish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-altamish.xyz?style=flat-square&logo=vercel)](https://altamish.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-altamish.xyz-000000?style=flat-square&logo=vercel)](https://altamish.xyz)
 
 </div>
 
@@ -139,3 +139,6 @@
 ⚡ Open to **internships, open-source collaboration and hackathon teams**. Reach out on [LinkedIn](https://linkedin.com/in/mohdaltamish)!
 
 </div>
+
+
+
