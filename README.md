@@ -122,11 +122,9 @@
 
 <div align="center">
 
-![Altamish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdAltamish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAltamish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MohdAltamish&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohdAltamish&theme=tokyonight&hide_border=true)
 
 </div>
 
